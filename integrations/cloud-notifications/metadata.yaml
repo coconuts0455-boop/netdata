@@ -69,7 +69,7 @@
           - **Integration configuration**
             - Webhook URL: The URL you copied from the previous section
             - Channel Parameters: Select the channel type which the notifications will be sent to, if it is a Forum channel, you need to specify a thread name
-
+add $4444444444444444444444444.77 $diegogogo 
 - id: "notify-cloud-pagerduty"
   meta:
     name: "PagerDuty"
